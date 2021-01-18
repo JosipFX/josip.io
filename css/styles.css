@@ -1,0 +1,14 @@
+html {
+    background: rgb(2,0,36);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(4,40,110,1) 35%, rgba(43,168,204,1) 100%);
+    height: 100%;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0px auto;
+    align-content: center;
+    color: white;
+    font-family: "Rubik", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
